@@ -1,0 +1,94 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+	line-height: 1.8;
+	color: #6c7b8a;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 80px 0;
+}
+.single-pricing-box {
+  border: 1px solid#f4f7fa;
+  border-radius: 4px;
+  padding: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+a {
+  color: #14abf4;
+}
+.price-amount {
+  font-size: 60px;
+  color: #14abf4;
+  font-weight: 300;
+  line-height: 70px;
+  margin-bottom: 0;
+}
+.pricing-box-content {
+  margin-top: 30px;
+  border-top: 1px solid#f1f5fa;
+  padding-top: 30px;
+}
+.pricing-box-content ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.pricing-box-content {
+  padding-bottom: 13px;
+  line-height: 1.9;
+}
+.box-btn {
+  background: #14abf4;
+  color: #fff;
+  display: inline-block;
+  padding: 15px 50px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.single-pricing-box h4 {
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.single-pricing-box h4 span {
+  display: block;
+  color: #93eb72;
+  font-size: 85%;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.single-pricing-box h4 {
+}
+.single-pricing-box.box-2 h4 {
+  margin-top: -22px;
+  margin-bottom: 42px;
+}
+.single-pricing-box.box-2 {
+  position: relative;
+  z-index: 1;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 0 40px #f2f5f6;
+}
+.single-pricing-box.box-2::after {
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  content: "";
+  top: 0;
+  left: 0;
+  background: #67b930;
+}
+
+
+
+
+
+
